@@ -1,0 +1,8 @@
+
+bin-int/
+
+bin/
+
+*.vcxproj
+
+ImPlot.vcxproj.user

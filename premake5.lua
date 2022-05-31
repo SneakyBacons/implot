@@ -10,8 +10,8 @@ project "ImPlot"
   
 	files
 	{        
-		"%{prj.name}/src/**.h",
-		"%{prj.name}/src/**.cpp",
+		"./**.h",
+		"./**.cpp",
 	}
 
     ToInclude = {}
