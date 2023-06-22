@@ -6,3 +6,5 @@ bin/
 *.vcxproj
 
 ImPlot.vcxproj.user
+
+*.filters
